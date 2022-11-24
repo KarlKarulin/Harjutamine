@@ -1,0 +1,4 @@
+GitHub on koodihoidla, mida kasutavad miljonid programmeerijad.
+GitHub on Microsoft'i ettevõtte üks osadest.
+
+Ise saan GitHub'i kasutada koodi hoidmiseks, nagu juba seda tegin kõikide Programmeerimis Alused tundidega.
